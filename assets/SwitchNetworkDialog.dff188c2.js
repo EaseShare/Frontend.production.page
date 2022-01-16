@@ -1,0 +1,2 @@
+import{w as s,S as l}from"./index.6f64fc91.js";import{s as r,K as u,r as p,o as d,A as m,D as n,w as c,F as f,G as i}from"./vendor.7f9d0598.js";const _=i("open"),k=r({setup(v){const o=u(!0);return s.connect(),(w,e)=>{const a=p("el-button");return d(),m(f,null,[n(a,{onClick:e[0]||(e[0]=t=>o.value=!0)},{default:c(()=>[_]),_:1}),n(l,{modelValue:o.value,"onUpdate:modelValue":e[1]||(e[1]=t=>o.value=t)},null,8,["modelValue"])],64)}}});export{k as default};
+//# sourceMappingURL=SwitchNetworkDialog.dff188c2.js.map
